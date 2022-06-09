@@ -5,7 +5,8 @@
   "keywords": [
     "browser-sync",
     "express",
-    "nodemon"
+    "nodemon",
+    "pwa"
   ],
   "author": "",
   "license": "MIT",

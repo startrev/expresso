@@ -4,10 +4,20 @@
 
 <head>
 
-  <title>Expresso</title>
+  <title>Expresso ☕️</title>
   <!-- Meta Tags -->
   <meta charset="utf-8">
+  <meta name="theme-color" content="#e7e7e7">
+  <meta name="description" content="Welcome to Expresso">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- iOS Settings -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+  <link rel="icon" type=”image/x-icon” sizes="16x16 24x24 32x32 48x48 64x64" href="/images/favicon.ico">
+  <!-- PWA Manifest -->
+  <link rel="manifest" href="/site.webmanifest">
   <!-- Style CSS -->
   <link rel="stylesheet" href="/stylesheets/style.css">
   <!-- Cola CSS -->
@@ -19,7 +29,11 @@
 
   <h1 class="fs1">Expresso ☕️</h1>
   <p class="fs6">Hello, World! Welcome to <a href="/" class="tx-dcr-no">Expresso</a></p>
-  <p class="fs6">You are now <strong>online</strong>.</p>
+  <p class="fs6">You are now <strong class="page-status">online</strong>.</p>
+
+  <!-- PWA JS -->
+  <script src="/javascripts/pwa.js"></script>
+  <script src="/javascripts/status.js"></script>
 
 </body>
 
