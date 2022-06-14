@@ -112,10 +112,10 @@ See  [`CONTRIBUTING.md`][contributing-url] for more information on what we're lo
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- LICENSE -->
-## License
+<!-- COPYRIGHT & LICENSE -->
+## Copyright & License
 
-Expresso is licensed under the [`MIT LICENSE`][license-url].
+Copyright © 2022 [Start Rev Technology][startrev-url]. Expresso is licensed under the [`MIT LICENSE`][license-url].
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -146,6 +146,7 @@ Project Link: [github.com/startrev/expresso][project-url]
 [issues-shield]: https://img.shields.io/github/issues/startrev/expresso.svg?style=for-the-badge&color=red
 [license-shield]: https://img.shields.io/github/license/startrev/expresso.svg?style=for-the-badge&color=yellowgreen
 
+[startrev-url]: https://github.com/startrev
 [contributors-url]: https://github.com/startrev/expresso/graphs/contributors
 [project-url]: https://github.com/startrev/expresso
 [forks-url]: https://github.com/startrev/expresso/network/members
